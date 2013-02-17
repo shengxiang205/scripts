@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <strategies type="array">
+  <% datas["hash"]["strategies"].each do |strategy| %>
+    <strategy>
+      <name><%= strategy["name"] %></name>
+      <executing-end-date type="date"><%= strategy["executing_end_date"] %></executing-end-date>
+      <quantity type="integer"><%= strategy["quantity"] %></quantity>
+      <publicising-end-date><%= strategy["publicising_end_date"] %></publicising-end-date>
+      <node-id><%= strategy["node_id"] %></node-id>
+      <publicising-start-date><%= strategy["publicising_start_date"] %></publicising-start-date>
+      <deleted><%= strategy["deleted"] %></deleted>
+      <id type="integer"><%= strategy["id"] %></id>
+      <executing-start-date type="date"><%= strategy["executing_start_date"] %></executing-start-date>
+      <description><%= strategy["description"] %></description>
+      <labels type="array">
+        <% (strategy["labels"] || []).each do |label| %>
+        <label>
+          <name><%= label["name"]  %></name>
+          <label-group-name><%= label["label_group_name"] %></label-group-name>
+          <id type="integer"><%= label["id"] %></id>
+          <label-group-id type="integer"><%= label["label_group_id"] %></label-group-id>
+        </label>
+        <% end %>
+      </labels>
+      <marketing-contents type="array">
+        <% (strategy["marketing_contents"] || []).each do |marketing_content| %>
+        <marketing-content>
+          <name><%= marketing_content["name"] %></name>
+          <executing-end-date type="date">2011-12-31</executing-end-date>
+          <marketing-proposal-id type="integer"><%= marketing_content["marketing_proposal_id"] %></marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer"><%= marketing_content["id"] %></id>
+          <executing-start-date type="date">2011-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer"><%= marketing_content["marketing_proposal_config_id"] %></marketing-proposal-config-id>
+          <factor type="integer"><%= marketing_content["factor"] %></factor>
+          <description><%= marketing_content["description"] %></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer"><%= marketing_content["visual_proposal_config_id"] %></visual-proposal-id>
+          <strategy-id type="integer"><%= marketing_content["strategy_id"] %></strategy-id>
+          <visual-proposal-config-id type="integer"><%= marketing_content["visual_proposal_config_id"] %></visual-proposal-config-id>
+          <state><%= marketing_content["state"] %></state>
+          <customized-time-slices><%= marketing_content["customized_time_slices"]%></customized-time-slices>
+        </marketing-content>
+        <% end %>
+      </marketing-contents>
+      <customized-time-slices><%= strategy["customized_time_slices"] %></customized-time-slices>
+      <state><%= strategy["state"] %></state>
+    </strategy>
+  <% end %>
+  </strategies>
+</hash>

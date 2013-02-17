@@ -1,0 +1,55 @@
+svn@sennka-desktop:/opt/joowing/joowing_box_install/installer$ ab -c 50 -n 1000 http://192.168.10.223:9999/gridfs/test.png
+This is ApacheBench, Version 2.3 <$Revision: 655654 $>
+Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/
+Licensed to The Apache Software Foundation, http://www.apache.org/
+
+Benchmarking 192.168.10.223 (be patient)
+Completed 100 requests
+Completed 200 requests
+Completed 300 requests
+Completed 400 requests
+Completed 500 requests
+Completed 600 requests
+Completed 700 requests
+Completed 800 requests
+Completed 900 requests
+Completed 1000 requests
+Finished 1000 requests
+
+
+Server Software:        nginx/1.0.12
+Server Hostname:        192.168.10.223
+Server Port:            9999
+
+Document Path:          /gridfs/test.png
+Document Length:        230057 bytes
+
+Concurrency Level:      50
+Time taken for tests:   19.667 seconds
+Complete requests:      1000
+Failed requests:        0
+Write errors:           0
+Total transferred:      230301000 bytes
+HTML transferred:       230057000 bytes
+Requests per second:    50.85 [#/sec] (mean)
+Time per request:       983.333 [ms] (mean)
+Time per request:       19.667 [ms] (mean, across all concurrent requests)
+Transfer rate:          11435.77 [Kbytes/sec] received
+
+Connection Times (ms)
+              min  mean[+/-sd] median   max
+Connect:        1   59  25.0     57      97
+Processing:   265  917  55.7    921    1059
+Waiting:        4   62  23.3     55     166
+Total:        339  975  46.4    980    1061
+
+Percentage of the requests served within a certain time (ms)
+  50%    980
+  66%    982
+  75%    983
+  80%    984
+  90%    988
+  95%   1005
+  98%   1034
+  99%   1051
+ 100%   1061 (longest request)

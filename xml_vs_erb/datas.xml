@@ -1,0 +1,2875 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hash>
+  <strategies type="array">
+    <strategy>
+      <name>&#21697;&#29260;&amp;&#25925;&#20107;</name>
+      <executing-end-date type="date">2011-12-31</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">106</id>
+      <executing-start-date type="date">2011-01-01</executing-start-date>
+      <description>&#35268;&#21010;&#25152;&#26377;&#21644;&#21697;&#29260;&#23459;&#20256;&#30456;&#20851;&#30340;&#33410;&#30446;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#32531;&#21160;&#30340;&#27833;&#30011;&#28023;&#25253;</name>
+          <executing-end-date type="date">2011-12-31</executing-end-date>
+          <marketing-proposal-id type="integer">86</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">86</id>
+          <executing-start-date type="date">2011-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">53</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#32531;&#21160;&#30340;&#27833;&#30011;&#28023;&#25253;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">86</visual-proposal-id>
+          <strategy-id type="integer">106</strategy-id>
+          <visual-proposal-config-id type="integer">72</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#20250;&#21592;&#20844;&#21578;&#26639;</name>
+      <executing-end-date type="date">2011-12-31</executing-end-date>
+      <quantity type="integer">0</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">107</id>
+      <executing-start-date type="date">2011-01-01</executing-start-date>
+      <description>&#25152;&#26377;&#38754;&#21521;&#20250;&#21592;&#30340;&#20844;&#21578;&#65292;&#21644;&#25307;&#21215;&#20250;&#21592;&#30340;&#23459;&#20256;&#28023;&#25253;&#12290;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array"/>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#25307;&#32856;&amp;&#25307;&#21215;</name>
+      <executing-end-date type="date">2011-12-31</executing-end-date>
+      <quantity type="integer">0</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">108</id>
+      <executing-start-date type="date">2011-01-01</executing-start-date>
+      <description>&#20840;&#22269;&#21457;&#24067;&#30340;&#24635;&#37096;&#21592;&#24037;&#25307;&#32856;&#12289;&#21152;&#30431;&#25307;&#21215;&#21551;&#20107;&#31561;&#31561;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array"/>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#38144;&#21806;&#25216;&#24039;&#22521;&#35757;</name>
+      <executing-end-date type="date">2011-12-31</executing-end-date>
+      <quantity type="integer">0</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">109</id>
+      <executing-start-date type="date">2011-01-01</executing-start-date>
+      <description>&#25918;&#32622;&#25152;&#26377;&#38754;&#21521;&#32456;&#31471;&#38376;&#24215;&#24215;&#38271;&#21644;&#24215;&#21592;&#30340;&#22521;&#35757;&#35838;&#31243;&#12290;&#24635;&#37096;HR&#21644;&#22521;&#35757;&#37096;&#38376;&#36127;&#36131;&#31574;&#21010;&#21644;&#20934;&#22791;&#36825;&#20123;&#35838;&#20214;&#12290;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array"/>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#20572;&#19994;&#21518;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>&#33891;&#20107;&#38271;&#26032;&#24180;&#23492;&#35821;</name>
+      <executing-end-date type="date">2012-01-01</executing-end-date>
+      <quantity type="integer">0</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">110</id>
+      <executing-start-date type="date">2012-01-01</executing-start-date>
+      <description>2012&#24180;&#26032;&#24180;&#33891;&#20107;&#38271;&#32473;&#22823;&#23478;&#30340;&#26032;&#24180;&#31069;&#31119;&#21644;&#20844;&#21496;&#24895;&#26223;&#12290;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array"/>
+      <customized-time-slices>&#33829;&#19994;&#21069;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>11-1&#35032;&#30382;&#27963;&#21160;</name>
+      <executing-end-date type="date">2011-12-31</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">125</id>
+      <executing-start-date type="date">2011-01-01</executing-start-date>
+      <description>11-1&#26376;&#24066;&#22330;&#37096;&#32479;&#19968;&#32452;&#32455;&#30340;&#35032;&#30382;&#27963;&#21160;&#65292;&#21253;&#25324;&#33829;&#19994;&#21069;&#21644;&#19979;&#29677;&#21518;&#30340;&#27963;&#21160;&#36890;&#30693;&#65288;&#38754;&#21521;&#24215;&#38271;&#12289;&#24215;&#21592;&#65289;&#12289;&#27963;&#21160;&#28023;&#25253;&#20197;&#21450;&#21442;&#19982;&#27963;&#21160;&#30340;&#21830;&#21697;&#25512;&#33616;&#19977;&#20010;&#22330;&#26223;&#12290;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>11-1&#26376;&#35032;&#30382;&#27963;&#21160;&#36890;&#30693;</name>
+          <executing-end-date type="date">2011-12-31</executing-end-date>
+          <marketing-proposal-id type="integer">88</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">88</id>
+          <executing-start-date type="date">2011-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">58</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>11-1&#26376;&#35032;&#30382;&#27963;&#21160;&#36890;&#30693;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">88</visual-proposal-id>
+          <strategy-id type="integer">125</strategy-id>
+          <visual-proposal-config-id type="integer">77</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>11-1&#26376;&#35032;&#30382;&#27963;&#21160;&#25512;&#33616;</name>
+          <executing-end-date type="date">2011-12-31</executing-end-date>
+          <marketing-proposal-id type="integer">90</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">90</id>
+          <executing-start-date type="date">2011-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">60</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>11-1&#26376;&#35032;&#30382;&#27963;&#21160;&#25512;&#33616;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">90</visual-proposal-id>
+          <strategy-id type="integer">125</strategy-id>
+          <visual-proposal-config-id type="integer">79</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>11-1&#26376;&#35032;&#30382;&#27963;&#21160;</name>
+          <executing-end-date type="date">2011-12-31</executing-end-date>
+          <marketing-proposal-id type="integer">93</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">93</id>
+          <executing-start-date type="date">2011-11-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">59</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>11-1&#26376;&#35032;&#30382;&#27963;&#21160;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">93</visual-proposal-id>
+          <strategy-id type="integer">125</strategy-id>
+          <visual-proposal-config-id type="integer">78</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#28201;&#24773;&#19968;&#20908;&#35032;&#30382;&#20080;&#36192;&#27963;&#21160;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">128</id>
+      <executing-start-date type="date">2011-11-01</executing-start-date>
+      <description>&#28201;&#24773;&#19968;&#20908;&#35032;&#30382;&#20080;&#36192;&#27963;&#21160;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#27963;&#21160;&#36890;&#30693;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">95</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">95</id>
+          <executing-start-date type="date">2011-11-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">58</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#27963;&#21160;&#36890;&#30693;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">95</visual-proposal-id>
+          <strategy-id type="integer">128</strategy-id>
+          <visual-proposal-config-id type="integer">77</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>&#27963;&#21160;&#28023;&#25253;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">96</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">96</id>
+          <executing-start-date type="date">2011-11-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">59</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#27963;&#21160;&#28023;&#25253;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">96</visual-proposal-id>
+          <strategy-id type="integer">128</strategy-id>
+          <visual-proposal-config-id type="integer">80</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>&#27963;&#21160;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">97</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">97</id>
+          <executing-start-date type="date">2011-11-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">60</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#27963;&#21160;&#25512;&#33616;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">97</visual-proposal-id>
+          <strategy-id type="integer">128</strategy-id>
+          <visual-proposal-config-id type="integer">79</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>dddd</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">106</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">106</id>
+          <executing-start-date type="date">2011-11-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">50</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">106</visual-proposal-id>
+          <strategy-id type="integer">128</strategy-id>
+          <visual-proposal-config-id type="integer">82</visual-proposal-config-id>
+          <state>removed</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>11111</name>
+      <executing-end-date type="date">2011-12-16</executing-end-date>
+      <quantity type="integer">0</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">131</id>
+      <executing-start-date type="date">2011-12-15</executing-start-date>
+      <description>11111</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array"/>
+      <customized-time-slices>&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>2012&#24180;&#26149;&#23395;&#26032;&#27454;A&#27874;&#27573;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">137</id>
+      <executing-start-date type="date">2011-12-14</executing-start-date>
+      <description>2012&#24180;&#26149;&#23395;&#26032;&#27454;A&#27874;&#27573;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>2012&#24180;A&#27874;&#27573;&#26032;&#21697;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">119</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">119</id>
+          <executing-start-date type="date">2011-12-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>2012&#24180;A&#27874;&#27573;&#26032;&#21697;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">119</visual-proposal-id>
+          <strategy-id type="integer">137</strategy-id>
+          <visual-proposal-config-id type="integer">85</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>2012&#24180;&#26149;&#23395;A1-2</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">120</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">120</id>
+          <executing-start-date type="date">2011-12-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>2012&#24180;&#26149;&#23395;A1-2</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">120</visual-proposal-id>
+          <strategy-id type="integer">137</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#21697;&#29260;&#23459;&#20256;&#30011;</name>
+      <executing-end-date type="date">2012-04-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">138</id>
+      <executing-start-date type="date">2011-12-01</executing-start-date>
+      <description>&#21697;&#29260;&#23459;&#20256;&#30011;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#21697;&#29260;&#23459;&#20256;&#30011;</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">121</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">121</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">53</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#21697;&#29260;&#23459;&#20256;&#30011;</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1111.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1111.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">121</visual-proposal-id>
+          <strategy-id type="integer">138</strategy-id>
+          <visual-proposal-config-id type="integer">72</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>&#21697;&#29260;&#31616;&#20171;</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">123</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">123</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">62</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1102.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1102.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">123</visual-proposal-id>
+          <strategy-id type="integer">138</strategy-id>
+          <visual-proposal-config-id type="integer">91</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>2012&#24180;&#26149;&#23395;&#20027;&#25512;&#20135;&#21697;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">139</id>
+      <executing-start-date type="date">2011-12-01</executing-start-date>
+      <description>2012&#24180;&#26149;&#23395;&#20027;&#25512;&#20135;&#21697;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>2012&#24180;&#26149;&#23395;&#20027;&#25512;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">135</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">135</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>2012&#24180;&#26149;&#23395;&#20027;&#25512;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">135</visual-proposal-id>
+          <strategy-id type="integer">139</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#26469;&#33258;&#24635;&#37096;&#27979;&#35797;&#30340;2012&#24180;&#26149;&#23395;&#26032;&#27454;A&#27874;&#27573;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">143</id>
+      <executing-start-date type="date">2011-12-14</executing-start-date>
+      <description>2012&#24180;&#26149;&#23395;&#26032;&#27454;A&#27874;&#27573;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>2012&#24180;A&#27874;&#27573;&#26032;&#21697;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">129</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">129</id>
+          <executing-start-date type="date">2011-12-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>2012&#24180;A&#27874;&#27573;&#26032;&#21697;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">129</visual-proposal-id>
+          <strategy-id type="integer">143</strategy-id>
+          <visual-proposal-config-id type="integer">85</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>00:00-23:59</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>2012&#24180;&#26149;&#23395;A1-2</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">130</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">130</id>
+          <executing-start-date type="date">2011-12-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>2012&#24180;&#26149;&#23395;A1-2</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">130</visual-proposal-id>
+          <strategy-id type="integer">143</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>00:00-23:59</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>00:00-23:59</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#26469;&#33258;&#24635;&#37096;&#27979;&#35797;&#30340;&#21697;&#29260;&#23459;&#20256;&#30011;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">144</id>
+      <executing-start-date type="date">2011-12-01</executing-start-date>
+      <description>&#21697;&#29260;&#23459;&#20256;&#30011;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#21697;&#29260;&#23459;&#20256;&#30011;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">131</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">131</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">53</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#21697;&#29260;&#23459;&#20256;&#30011;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">131</visual-proposal-id>
+          <strategy-id type="integer">144</strategy-id>
+          <visual-proposal-config-id type="integer">72</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>00:00-23:59</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>&#21697;&#29260;&#31616;&#20171;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">132</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">132</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">62</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">132</visual-proposal-id>
+          <strategy-id type="integer">144</strategy-id>
+          <visual-proposal-config-id type="integer">91</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>00:00-23:59</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>00:00-23:59</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#26469;&#33258;&#24635;&#37096;&#27979;&#35797;&#30340;2012&#24180;&#26149;&#23395;&#20027;&#25512;&#20135;&#21697;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">145</id>
+      <executing-start-date type="date">2011-12-01</executing-start-date>
+      <description>2012&#24180;&#26149;&#23395;&#20027;&#25512;&#20135;&#21697;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>dddd</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">134</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">134</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>ddd</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">134</visual-proposal-id>
+          <strategy-id type="integer">145</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>00:00-23:59</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>00:00-23:59</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#33829;&#19994;&#21069;&#21450;&#25171;&#28874;&#21518;&#21697;&#29260;&#23459;&#20256;</name>
+      <executing-end-date type="date">2012-04-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">147</id>
+      <executing-start-date type="date">2011-12-01</executing-start-date>
+      <description>&#33829;&#19994;&#21069;&#21450;&#25171;&#28874;&#21518;&#21697;&#29260;&#23459;&#20256;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#21697;&#29260;&#28023;&#25253;</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">138</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">138</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">64</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#33829;&#19994;&#21069;&#21450;&#25171;&#28874;&#21518;&#21697;&#29260;&#28023;&#25253;</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1191.000.002.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1191.000.002.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">138</visual-proposal-id>
+          <strategy-id type="integer">147</strategy-id>
+          <visual-proposal-config-id type="integer">93</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>&#21697;&#29260;&#20171;&#32461;</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">139</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">139</id>
+          <executing-start-date type="date">2011-12-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">65</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#21697;&#29260;&#20171;&#32461;</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1192.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1192.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">139</visual-proposal-id>
+          <strategy-id type="integer">147</strategy-id>
+          <visual-proposal-config-id type="integer">94</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A1-3&#20027;&#25512;&#21830;&#21697;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">160</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A1-3&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A1-3&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">173</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">173</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">173</visual-proposal-id>
+          <strategy-id type="integer">160</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">174</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">174</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">174</visual-proposal-id>
+          <strategy-id type="integer">160</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">175</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">175</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">175</visual-proposal-id>
+          <strategy-id type="integer">160</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-2&#20027;&#25512;&#21830;&#21697;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">161</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-1&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-1&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">176</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">176</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">176</visual-proposal-id>
+          <strategy-id type="integer">161</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">177</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">177</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">177</visual-proposal-id>
+          <strategy-id type="integer">161</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">178</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">178</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">178</visual-proposal-id>
+          <strategy-id type="integer">161</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>&#26469;&#33258;&#24635;&#37096;&#27979;&#35797;&#30340;A2-2&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">162</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-2&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A1-3&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">179</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">179</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">179</visual-proposal-id>
+          <strategy-id type="integer">162</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>draft</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-2&#19979;&#21320;&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">180</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">180</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">180</visual-proposal-id>
+          <strategy-id type="integer">162</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>draft</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>draft</state>
+    </strategy>
+    <strategy>
+      <name>A2-1&#20027;&#25512;&#21830;&#21697;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">163</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-1&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-1&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">181</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">181</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">181</visual-proposal-id>
+          <strategy-id type="integer">163</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">182</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">182</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">182</visual-proposal-id>
+          <strategy-id type="integer">163</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">183</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">183</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">183</visual-proposal-id>
+          <strategy-id type="integer">163</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-2&#20027;&#25512;&#21830;&#21697;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">164</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-2&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-2&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">184</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">184</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">184</visual-proposal-id>
+          <strategy-id type="integer">164</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-2&#19979;&#21320;&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">185</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">185</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">185</visual-proposal-id>
+          <strategy-id type="integer">164</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-3&#20027;&#25512;&#21830;&#21697;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">165</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-3&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-3&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">186</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">186</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">186</visual-proposal-id>
+          <strategy-id type="integer">165</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">187</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">187</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">187</visual-proposal-id>
+          <strategy-id type="integer">165</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">188</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">188</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">188</visual-proposal-id>
+          <strategy-id type="integer">165</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#26149;&#23395;&#26032;&#21697;&#30446;&#24405;&#20876;</name>
+      <executing-end-date type="date">2012-01-31</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">166</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>2012&#26149;&#23395;&#26032;&#21697;&#30446;&#24405;&#20876;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-1&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">189</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">189</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">189</visual-proposal-id>
+          <strategy-id type="integer">166</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">190</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">190</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">190</visual-proposal-id>
+          <strategy-id type="integer">166</strategy-id>
+          <visual-proposal-config-id type="integer">85</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">191</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">191</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>A1-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">191</visual-proposal-id>
+          <strategy-id type="integer">166</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-2&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-01-31</executing-end-date>
+          <marketing-proposal-id type="integer">222</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">222</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">222</visual-proposal-id>
+          <strategy-id type="integer">166</strategy-id>
+          <visual-proposal-config-id type="integer">84</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#21697;&#29260;&#23459;&#20256;&#29255;</name>
+      <executing-end-date type="date">2012-04-29</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">181</id>
+      <executing-start-date type="date">2012-01-01</executing-start-date>
+      <description>&#21697;&#29260;&#23459;&#20256;&#29255;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#37202;&#32418;&#32972;&#26223;&#21697;&#29260;&#23459;&#20256;</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">554</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">554</id>
+          <executing-start-date type="date">2012-03-30</executing-start-date>
+          <marketing-proposal-config-id type="integer">66</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>&#37202;&#32418;&#32972;&#26223;&#21697;&#29260;&#23459;&#20256;</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1114.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">554</visual-proposal-id>
+          <strategy-id type="integer">181</strategy-id>
+          <visual-proposal-config-id type="integer">96</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>K&#26149;&#23395;&#36208;&#31168;</name>
+      <executing-end-date type="date">2012-04-29</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">182</id>
+      <executing-start-date type="date">2012-01-01</executing-start-date>
+      <description>K&#26149;&#23395;&#36208;&#31168;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>K&#26149;&#23395;&#36208;&#31168;-1</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">228</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">228</id>
+          <executing-start-date type="date">2012-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">67</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>K&#26149;&#23395;&#36208;&#31168;-1</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1115.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1115.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">228</visual-proposal-id>
+          <strategy-id type="integer">182</strategy-id>
+          <visual-proposal-config-id type="integer">95</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>K&#26149;&#23395;&#36208;&#31168;-2</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">229</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">229</id>
+          <executing-start-date type="date">2012-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">67</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>K&#26149;&#23395;&#36208;&#31168;-2</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1115.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1115.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">229</visual-proposal-id>
+          <strategy-id type="integer">182</strategy-id>
+          <visual-proposal-config-id type="integer">95</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>K&#26149;&#23395;&#36208;&#31168;-3</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">230</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">230</id>
+          <executing-start-date type="date">2012-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">67</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>K&#26149;&#23395;&#36208;&#31168;-3</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1115.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1115.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">230</visual-proposal-id>
+          <strategy-id type="integer">182</strategy-id>
+          <visual-proposal-config-id type="integer">95</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>K&#26149;&#23395;&#36208;&#31168;-4</name>
+          <executing-end-date type="date">2012-04-29</executing-end-date>
+          <marketing-proposal-id type="integer">231</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">231</id>
+          <executing-start-date type="date">2012-01-01</executing-start-date>
+          <marketing-proposal-config-id type="integer">67</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>K&#26149;&#23395;&#36208;&#31168;-4</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1115.000.001.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1115.000.001.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">231</visual-proposal-id>
+          <strategy-id type="integer">182</strategy-id>
+          <visual-proposal-config-id type="integer">95</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#26149;&#23395;&#26032;&#21697;&#30446;&#24405;&#20876;_&#32493;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">204</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>2012&#26149;&#23395;&#26032;&#21697;&#30446;&#24405;&#20876;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-1&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">289</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">289</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">289</visual-proposal-id>
+          <strategy-id type="integer">204</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">290</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">290</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">290</visual-proposal-id>
+          <strategy-id type="integer">204</strategy-id>
+          <visual-proposal-config-id type="integer">85</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">291</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">291</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description>A1-3&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">291</visual-proposal-id>
+          <strategy-id type="integer">204</strategy-id>
+          <visual-proposal-config-id type="integer">83</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-2&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">292</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">292</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">292</visual-proposal-id>
+          <strategy-id type="integer">204</strategy-id>
+          <visual-proposal-config-id type="integer">84</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A1-3&#20027;&#25512;&#21830;&#21697;_&#32493;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">205</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A1-3&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A1-3&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">293</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">293</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">293</visual-proposal-id>
+          <strategy-id type="integer">205</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">294</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">294</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">294</visual-proposal-id>
+          <strategy-id type="integer">205</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A1-3&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">295</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">295</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">295</visual-proposal-id>
+          <strategy-id type="integer">205</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-1&#20027;&#25512;&#21830;&#21697;_&#32493;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">206</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-1&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-1&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">296</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">296</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">296</visual-proposal-id>
+          <strategy-id type="integer">206</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">297</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">297</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">297</visual-proposal-id>
+          <strategy-id type="integer">206</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-1&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">298</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">298</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">298</visual-proposal-id>
+          <strategy-id type="integer">206</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-2&#20027;&#25512;&#21830;&#21697;_&#32493;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">2</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">207</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-2&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-2&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">299</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">299</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">299</visual-proposal-id>
+          <strategy-id type="integer">207</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-2&#19979;&#21320;&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">300</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">300</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">300</visual-proposal-id>
+          <strategy-id type="integer">207</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>A2-3&#20027;&#25512;&#21830;&#21697;_&#32493;</name>
+      <executing-end-date type="date">2012-02-29</executing-end-date>
+      <quantity type="integer">3</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">208</id>
+      <executing-start-date type="date">2011-12-31</executing-start-date>
+      <description>A2-3&#20027;&#25512;&#21830;&#21697;&#31574;&#21010;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>A2-3&#19978;&#21320;&#20013;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">301</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">301</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">301</visual-proposal-id>
+          <strategy-id type="integer">208</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">302</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">302</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">302</visual-proposal-id>
+          <strategy-id type="integer">208</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>A2-3&#26202;&#19978;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-02-29</executing-end-date>
+          <marketing-proposal-id type="integer">303</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">303</id>
+          <executing-start-date type="date">2011-12-31</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array"/>
+          <visual-proposal-id type="integer">303</visual-proposal-id>
+          <strategy-id type="integer">208</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>2012&#26149;&#23395;B&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">222</id>
+      <executing-start-date type="date">2012-02-14</executing-start-date>
+      <description>2012&#26149;&#23395;B&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>B1-1&#19978;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">376</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">376</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">376</visual-proposal-id>
+          <strategy-id type="integer">222</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B1-1&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">377</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">377</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">377</visual-proposal-id>
+          <strategy-id type="integer">222</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B1-2&#19978;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">378</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">378</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">378</visual-proposal-id>
+          <strategy-id type="integer">222</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B1-2&#19979;&#21320;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">379</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">379</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">379</visual-proposal-id>
+          <strategy-id type="integer">222</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>2012&#24180;&#26149;&#23395;B&#27874;&#27573;&#26032;&#21697;&#23637;&#31034;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">5</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">223</id>
+      <executing-start-date type="date">2012-02-14</executing-start-date>
+      <description>2012&#24180;&#26149;&#23395;B&#27874;&#27573;&#26032;&#21697;&#23637;&#31034;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>B1-1B1-2&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">441</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">441</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">71</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1226.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">441</visual-proposal-id>
+          <strategy-id type="integer">223</strategy-id>
+          <visual-proposal-config-id type="integer">108</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B1-3&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">442</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">442</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1224.000.011.001P</view-id>
+              <labels>&#35797;&#34915;&#21306;;&#20241;&#38386;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">442</visual-proposal-id>
+          <strategy-id type="integer">223</strategy-id>
+          <visual-proposal-config-id type="integer">107</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B2-1&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">443</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">443</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1224.000.008.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">443</visual-proposal-id>
+          <strategy-id type="integer">223</strategy-id>
+          <visual-proposal-config-id type="integer">110</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B2-2&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">444</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">444</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1224.000.010.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">444</visual-proposal-id>
+          <strategy-id type="integer">223</strategy-id>
+          <visual-proposal-config-id type="integer">112</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>B2-3&#30446;&#24405;&#20876;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">445</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">445</id>
+          <executing-start-date type="date">2012-02-14</executing-start-date>
+          <marketing-proposal-config-id type="integer">61</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1224.000.007.001P</view-id>
+              <labels>&#35797;&#34915;&#21306;;&#20241;&#38386;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">445</visual-proposal-id>
+          <strategy-id type="integer">223</strategy-id>
+          <visual-proposal-config-id type="integer">109</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#33829;&#19994;&#21069;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>2012&#19977;&#20843;&#33410;&#20419;&#38144;&#27963;&#21160;</name>
+      <executing-end-date type="date">2012-03-08</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">242</id>
+      <executing-start-date type="date">2012-03-06</executing-start-date>
+      <description>2012&#19977;&#20843;&#33410;&#20419;&#38144;&#27963;&#21160;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>2012&#19977;&#20843;&#33410;&#20419;&#38144;&#27963;&#21160;</name>
+          <executing-end-date type="date">2012-03-08</executing-end-date>
+          <marketing-proposal-id type="integer">451</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">451</id>
+          <executing-start-date type="date">2012-03-06</executing-start-date>
+          <marketing-proposal-config-id type="integer">72</marketing-proposal-config-id>
+          <factor type="integer">6</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1077.000.004.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">451</visual-proposal-id>
+          <strategy-id type="integer">242</strategy-id>
+          <visual-proposal-config-id type="integer">113</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>&#36965;&#25511;&#22120;&#35828;&#26126;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">243</id>
+      <executing-start-date type="date">2012-03-06</executing-start-date>
+      <description>&#36965;&#25511;&#22120;&#35828;&#26126;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>&#36965;&#25511;&#22120;&#25351;&#21335;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">463</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">463</id>
+          <executing-start-date type="date">2012-03-06</executing-start-date>
+          <marketing-proposal-config-id type="integer">74</marketing-proposal-config-id>
+          <factor type="integer">5</factor>
+          <description>&#36965;&#25511;&#22120;&#25351;&#21335;</description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>6002.000.002.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#21830;&#21697;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">463</visual-proposal-id>
+          <strategy-id type="integer">243</strategy-id>
+          <visual-proposal-config-id type="integer">117</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>C&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">10</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">268</id>
+      <executing-start-date type="date">2012-03-08</executing-start-date>
+      <description>C&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>C1-1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">511</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">511</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">71</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1226.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">511</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">108</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C1-2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">512</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">512</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">71</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1226.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">512</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">108</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C1-3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">513</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">513</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">513</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">114</visual-proposal-config-id>
+          <state>removed</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C2-1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">514</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">514</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.002.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">514</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">115</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C2-2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">515</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">515</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">515</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C2-3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">517</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">517</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">517</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">114</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">518</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">518</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.002.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">518</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">115</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">519</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">519</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">519</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">520</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">520</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">520</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-4</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">521</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">521</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">521</visual-proposal-id>
+          <strategy-id type="integer">268</strategy-id>
+          <visual-proposal-config-id type="integer">114</visual-proposal-config-id>
+          <state>unapplied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>unapplied</state>
+    </strategy>
+    <strategy>
+      <name>&#26469;&#33258;&#21326;&#21335;&#21306;&#30340;C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>offline</deleted>
+      <id type="integer">269</id>
+      <executing-start-date type="date">2012-03-08</executing-start-date>
+      <description>C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">516</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">516</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">516</visual-proposal-id>
+          <strategy-id type="integer">269</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>draft</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>draft</state>
+    </strategy>
+    <strategy>
+      <name>C&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">7</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">273</id>
+      <executing-start-date type="date">2012-03-08</executing-start-date>
+      <description>C&#27874;&#27573;&#26032;&#21697;&#30446;&#24405;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>C2-2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">540</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">540</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">540</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C2-3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">541</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">541</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">541</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">114</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">542</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">542</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.002.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">542</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">115</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">543</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">543</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">543</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">544</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">544</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.003.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">544</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">116</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C3-4</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">545</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">545</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.001.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">545</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">114</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C1-1TC2-1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">552</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">552</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.002.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">552</visual-proposal-id>
+          <strategy-id type="integer">273</strategy-id>
+          <visual-proposal-config-id type="integer">115</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">1</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">274</id>
+      <executing-start-date type="date">2012-03-08</executing-start-date>
+      <description>C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#25512;&#33616;</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">547</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">547</id>
+          <executing-start-date type="date">2012-03-08</executing-start-date>
+          <marketing-proposal-config-id type="integer">54</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1221.000.003.001L</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+            <view-info>
+              <view-id>1221.000.003.001P</view-id>
+              <labels>&#38376;&#25143;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">547</visual-proposal-id>
+          <strategy-id type="integer">274</strategy-id>
+          <visual-proposal-config-id type="integer">92</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+    <strategy>
+      <name>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;</name>
+      <executing-end-date type="date">2012-04-30</executing-end-date>
+      <quantity type="integer">4</quantity>
+      <publicising-end-date nil="true"></publicising-end-date>
+      <node-id>36</node-id>
+      <publicising-start-date nil="true"></publicising-start-date>
+      <deleted>online</deleted>
+      <id type="integer">275</id>
+      <executing-start-date type="date">2012-03-27</executing-start-date>
+      <description>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;</description>
+      <labels type="array">
+        <label>
+          <name>&#20840;&#22269;</name>
+          <label-group-name>&#21306;&#22495;&#26631;&#31614;</label-group-name>
+          <id type="integer">102</id>
+          <label-group-id type="integer">28</label-group-id>
+        </label>
+      </labels>
+      <marketing-contents type="array">
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;1</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">548</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">548</id>
+          <executing-start-date type="date">2012-03-27</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.101.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">548</visual-proposal-id>
+          <strategy-id type="integer">275</strategy-id>
+          <visual-proposal-config-id type="integer">125</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;2</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">549</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">549</id>
+          <executing-start-date type="date">2012-03-27</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.102.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">549</visual-proposal-id>
+          <strategy-id type="integer">275</strategy-id>
+          <visual-proposal-config-id type="integer">126</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;3</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">550</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">550</id>
+          <executing-start-date type="date">2012-03-27</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.103.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">550</visual-proposal-id>
+          <strategy-id type="integer">275</strategy-id>
+          <visual-proposal-config-id type="integer">127</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+        <marketing-content>
+          <name>C&#27874;&#27573;&#26032;&#21697;&#20114;&#21160;&#30446;&#24405;4</name>
+          <executing-end-date type="date">2012-04-30</executing-end-date>
+          <marketing-proposal-id type="integer">551</marketing-proposal-id>
+          <publicising-end-date nil="true"></publicising-end-date>
+          <publicising-start-date nil="true"></publicising-start-date>
+          <id type="integer">551</id>
+          <executing-start-date type="date">2012-03-27</executing-start-date>
+          <marketing-proposal-config-id type="integer">73</marketing-proposal-config-id>
+          <factor type="integer">1</factor>
+          <description></description>
+          <view-infos type="array">
+            <view-info>
+              <view-id>1227.000.104.001P</view-id>
+              <labels>&#20241;&#38386;&#21306;;&#35797;&#34915;&#21306;</labels>
+            </view-info>
+          </view-infos>
+          <visual-proposal-id type="integer">551</visual-proposal-id>
+          <strategy-id type="integer">275</strategy-id>
+          <visual-proposal-config-id type="integer">128</visual-proposal-config-id>
+          <state>applied</state>
+          <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+        </marketing-content>
+      </marketing-contents>
+      <customized-time-slices>&#33829;&#19994;&#21069;,&#19978;&#21320;&#33829;&#19994;&#26102;&#38388;,&#20013;&#21320;&#33829;&#19994;&#26102;&#38388;,&#19979;&#21320;&#33829;&#19994;&#26102;&#38388;,&#26202;&#19978;&#33829;&#19994;&#26102;&#38388;,&#25171;&#28874;&#21518;</customized-time-slices>
+      <state>applied</state>
+    </strategy>
+  </strategies>
+</hash>

@@ -1,0 +1,29 @@
+#!/usr/bin/ruby
+require 'fileutils'
+class SVN
+  class_attribute :root
+  self.root = Pathname.new(Dir.pwd)
+  
+  class_attribute :password
+  self.password = '123456'
+  
+  class << self  
+    def create(name)
+      path = self.class.root.join(name).to_s
+      
+      FileUtils.mkdir_p(path)
+      sudo_run("chown -R root:subversion #{name}")
+      sudo_run("svnadmin create #{path}")
+      sudo_run("chmod -R g+rws #{name}")
+    end
+    
+    def sudo_run(command)
+      new_command = "echo #{self.password} | sudo -S #{command}"
+      puts "run #{new_command}"
+      output = `#{new_command}`
+      output.lines.each { |l| puts l.gsub("\n", "") }
+    end
+  end
+end
+
+ARGV.each {|name| SVN.create(name)}
